@@ -1,0 +1,9 @@
+{
+    "require": {
+        "illuminate/database": "*",
+        "phpmailer/phpmailer": "dev-master"
+    },
+    "config" : {
+        "vendor-dir": "system/vendor"
+    }
+}

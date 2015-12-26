@@ -1,0 +1,2 @@
+Daca doriti sa inlocuiti functionalitatea unui controller (ex: main/register.php) din application ,
+adaugati un fisier user/register.php .
